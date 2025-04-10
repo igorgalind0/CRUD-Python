@@ -55,7 +55,7 @@ O banco de dados `meu_banco.db` contém a tabela `Usuarios` com a seguinte estru
 **O Sistema Iniciará mostrando o Menu de opções**
 (Chamando uma função que mostra o menu e dá início as tarefas ao escolher cada opção)
 
-![image](https://github.com/user-attachments/assets/de2cfd8c-f073-4084-986d-81c3e60f8952)
+![image](https://github.com/user-attachments/assets/1ce02688-3d7e-45e7-8465-3b59d94479e3)
 
 ![image](https://github.com/user-attachments/assets/8298cf47-67cd-43c9-9c63-9cf51a0bcc6e)
 
